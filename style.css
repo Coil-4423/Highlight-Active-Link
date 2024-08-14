@@ -1,0 +1,5 @@
+/* Highlighted navigation link */
+.active-link {
+    color: darkred; /* Change to the desired color */
+    font-weight: bold;
+}
